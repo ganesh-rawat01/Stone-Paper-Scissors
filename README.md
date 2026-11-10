@@ -10,5 +10,3 @@ User input validation.
 Technologies Used
 Python
 Random Module
-How to Run
-python main.py
